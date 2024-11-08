@@ -1,2 +1,2 @@
 # analiza_test
-Analiza testowa cwiczenie na zajeciach 8 listopada 2024.
+Analiza testowa cwiczenie na zajeciach 8 listopada 2058.
